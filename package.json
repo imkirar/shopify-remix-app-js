@@ -1,4 +1,9 @@
 {
+  "name": "announcement",
+  "version": "1.0.0",
+  "scripts": {
+    "shopify": "shopify app init"
+  },
   "devDependencies": {
     "@shopify/cli": "^3.64.1"
   }
